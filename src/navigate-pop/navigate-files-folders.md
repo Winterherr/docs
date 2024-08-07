@@ -54,7 +54,7 @@ Click the magnifying glass icon to search within the current directory, includin
 
 Enter a search term; matched items will automatically populate below the search bar.
 
-![Show and change File Path]
+Show and change File Path
 
 Press `Ctrl` and `L` in order to show the current filepath and enter a new one.
 
